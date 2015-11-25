@@ -1,0 +1,23 @@
+{
+    "subjectName": "Physics",
+    "subjectCode": "0001",
+    "noOfChapter": 35,
+    "chapterList": [
+        {
+            "chapterName": "Unit, Dimensions & Vectors",
+            "chapterId": "0001-001"
+        },
+        {
+            "chapterName": "Kinematics",
+            "chapterId": "0001-002"
+        },
+        {
+            "chapterName": "Law of Motion",
+            "chapterId": "0001-003"
+        },
+        {
+            "chapterName": "Centre of Mass",
+            "chapterId": "0001-004"
+        }
+    ]
+}
